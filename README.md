@@ -16,4 +16,4 @@ Current Features:
 - Deleting Items
 
 ![image](https://github.com/Film0re/vue-to-do-list/assets/23467176/827cbd1e-2241-49d8-88b4-7ef9e34e9f77)
-![image](https://wakatime.com/badge/user/5e97ba1c-cbfa-4adb-984b-1c28f09eab92/project/b5450e86-c2d1-4744-a1b5-7efd6dee425f.svg)
+[![wakatime](https://wakatime.com/badge/user/5e97ba1c-cbfa-4adb-984b-1c28f09eab92/project/b5450e86-c2d1-4744-a1b5-7efd6dee425f.svg)](https://wakatime.com/badge/user/5e97ba1c-cbfa-4adb-984b-1c28f09eab92/project/b5450e86-c2d1-4744-a1b5-7efd6dee425f)
