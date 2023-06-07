@@ -15,5 +15,6 @@ Current Features:
 - Filterting/Sorting
 - Deleting Items
 
-![image](https://github.com/Film0re/vue-to-do-list/assets/23467176/827cbd1e-2241-49d8-88b4-7ef9e34e9f77)
+![image](https://github.com/Film0re/vue-to-do-list/assets/23467176/9234bb76-1f9f-4fc9-977e-c2f890909ec2)
+
 [![wakatime](https://wakatime.com/badge/user/5e97ba1c-cbfa-4adb-984b-1c28f09eab92/project/b5450e86-c2d1-4744-a1b5-7efd6dee425f.svg)](https://wakatime.com/badge/user/5e97ba1c-cbfa-4adb-984b-1c28f09eab92/project/b5450e86-c2d1-4744-a1b5-7efd6dee425f)
